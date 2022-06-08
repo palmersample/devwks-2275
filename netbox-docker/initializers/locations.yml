@@ -1,0 +1,38 @@
+# - name: cage 101
+#   slug: cage-101
+#   site: SING 1
+---
+- name: Calgary-1
+  slug: calgary-1
+  description: Calgary Distribution 1
+  site: Calgary
+
+- name: Calgary-2
+  slug: calgary-2
+  description: Calgary Distribution 2
+  site: Calgary
+
+- name: Calgary-HQ
+  slug: calgary-hq
+  description: Calgary - Corporate offices
+  site: Calgary
+
+- name: Miami-DC
+  slug: miami-dc
+  description: Miami Datacenter
+  site: Miami
+
+- name: LAX-HQ
+  slug: lax-hq
+  description: Los Angeles - US Corporate
+  site: Los Angeles
+
+- name: Brussels-1
+  slug: brussels-1
+  description: EMEA Distribution 1
+  site: Brussels
+
+- name: Tokyo-HQ
+  slug: tokyo-hq
+  description: Tokyo - APJ Corporate
+  site: Tokyo
